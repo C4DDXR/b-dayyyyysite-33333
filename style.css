@@ -45,7 +45,7 @@ body{
 .window,
 #loveWindow{
     width:460px;
-    background: #E83E70    ;
+    background: #C0C0C0   ;
     border:2px solid #fff;
     box-shadow:
         inset -2px -2px #808080,
@@ -82,7 +82,7 @@ body{
 .titleRight span{
     width:18px;
     height:18px;
-    background:#E83E70    ;
+    background:  #C0C0C0   ;
     color:black;
     display:flex;
     justify-content:center;
